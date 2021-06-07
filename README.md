@@ -1,7 +1,7 @@
 # UrbanSoundClassif
 
 ## Description
-AI project on UrbanSound8k dataset
+AI project on UrbanSound8k dataset, which can be found : https://www.kaggle.com/prabhavsingh/urbansound8k-classification/notebook
 
 There is multiple notebooks :
 - BIGNN using Transfer learning on wide_resnet
@@ -48,3 +48,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Inspiration, dataset source, code snippets, etc.
 - https://arxiv.org/pdf/2007.11154.pdf
 - https://www.kaggle.com/prabhavsingh/urbansound8k-classification/notebook
+- https://pytorch.org/
