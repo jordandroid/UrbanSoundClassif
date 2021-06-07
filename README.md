@@ -17,6 +17,7 @@ Import the notebook on google colab and clone the dataset on your own drive
 - Clone the dataset on your desktop from the drive
 - Replace the paths according to location of dataset on your computer
 - Remove google colab import and drive.mount() call.
+- Run it in jupyter
 
 
 ### Executing program
