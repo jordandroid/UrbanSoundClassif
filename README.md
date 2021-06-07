@@ -27,7 +27,6 @@ Before running you must require to install :
 - numpy
 - pandas
 - scikit-learn
-- librosa
 - matplotlib
 
 ## Help
