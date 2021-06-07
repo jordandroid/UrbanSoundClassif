@@ -48,3 +48,4 @@ Inspiration, dataset source, code snippets, etc.
 - https://arxiv.org/pdf/2007.11154.pdf
 - https://www.kaggle.com/prabhavsingh/urbansound8k-classification/notebook
 - https://pytorch.org/
+- https://www.fast.ai/2018/07/02/adam-weight-decay/
