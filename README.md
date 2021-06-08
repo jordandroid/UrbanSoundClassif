@@ -10,6 +10,7 @@ There is multiple notebooks :
 ## Getting started  
 You can choose one of the notebbok.
 
+It is possible to run only the predict part, you just need to run the cells allowing to import required libraries, define paths, until the one loading the dataset, in this case the prediction will be based on pretrained network, which are training from previous run of the complete notebook.
 ### On Colab : 
 Import the notebook on google colab and clone the dataset on your own drive
 
