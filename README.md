@@ -45,10 +45,12 @@ In case of issue, you can contact me by mail : jordan.jouanchicot[at]gmail[dot]c
 
 ## Author 
 Jordan Rey-Jouanchicot
+
 mail : jordan.jouanchicot[at]gmail[dot]com
 
 ## Version history :
 0.2 : June 16 2021 : Updated and cleaned notebooks, updated README file and report
+
 0.1 : June 6 2021 : Initial Release with two notebooks : BigNN and NN
 
 ## License 
